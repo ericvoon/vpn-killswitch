@@ -1,0 +1,5 @@
+vpn-killswitch (1.2.0) stable; urgency=low
+
+  * GUI option added.  Validation before client launches.
+
+  -- Angela Donahue <angelad@disroot.org> Fri, 23 Nov 2018 19:44:08 -0600
